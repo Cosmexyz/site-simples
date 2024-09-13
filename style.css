@@ -1,0 +1,15 @@
+
+  *{
+     margin: 0;
+     padding: 0;
+     box-sizing: o;
+  }
+body{
+     width: 100vw;
+     height: 100vw;
+     background-image: url(./agr\ vai.png);
+     background-size: 110%;
+     background-repeat: no-repeat;
+}
+
+
